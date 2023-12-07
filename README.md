@@ -6,13 +6,7 @@
 
   [Description](#description)
 
-  [Installation](#installation)
-
   [Usage](#usage)
-
-  [Contribution](#contribution)
-
-  [Test](#test)
 
   [Links](#links)
 
@@ -24,21 +18,9 @@
   
   An application to save events at a certain time
   
-  ## Installation
-  
-  
-  
   ## Usage
   
   Click on the timestamp and type. Once your statisfied with your notes hit the save button.
-  
-  ## Contribution
-  
-  
-  
-  ## Test
-  
-  
   
   ## Links
   
